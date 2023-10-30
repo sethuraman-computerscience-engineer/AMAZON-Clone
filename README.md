@@ -239,7 +239,7 @@ Install dependencies
 Clone the project
 
 ```bash
-  git clone https://github.com/SashenJayathilaka/AMAZON-Clone.git
+  git clone https://github.com/sethuraman-computerscience-engineer/AMAZON-Clone.git
 ```
 
 Install dependencies
@@ -293,7 +293,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 Your Name - sethuraman1309@gmail.com
 
-Project Link: [https://github.com/SashenJayathilaka/AMAZON-Clone.git](https://github.com/SashenJayathilaka/AMAZON-Clone.git)
+Project Link: [https://github.com/sethuraman-computerscience-engineer/AMAZON-Clone.git](https://github.com/sethuraman-computerscience-engineer/AMAZON-Clone.git)
 
 <hr />
 
